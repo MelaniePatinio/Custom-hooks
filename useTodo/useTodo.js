@@ -1,5 +1,5 @@
 import { useEffect, useReducer } from "react";
-import { todoReducer } from "../08-useReducer/todoReducer";
+import { todoReducer } from "./todoReducer";
 
 //funcion iniciador JSON.parse es el contrario de JSON.stringfy
 //Si es nulo entonces inicializa un objeto vacio
